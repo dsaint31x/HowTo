@@ -62,8 +62,9 @@ MathJax.Hub.Config({
 
 # References
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* [jekyll-docs](https://jekyllrb.com/docs/home)
+* [jekyll-gh](https://github.com/jekyll/jekyll)
+* [jekyll-talk](https://talk.jekyllrb.com/)
+* [MathJax-zjuwhw's blog](http://zjuwhw.github.io/2017/06/04/MathJax.html)
 
 
