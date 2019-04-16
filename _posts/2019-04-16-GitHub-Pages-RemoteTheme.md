@@ -2,6 +2,7 @@
 title: "How to start GitHub Pages with The remote theme!"
 date: 2019-04-16 08:26:28
 categories: jekyll github pages
+tags: github pages jekyll
 ---
 
 # 1. repository 생성
