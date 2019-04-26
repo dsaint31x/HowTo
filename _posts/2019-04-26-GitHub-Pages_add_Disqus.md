@@ -1,5 +1,5 @@
 ---
-title: "How to start GitHub Pages with The remote theme!"
+title: "How to use the comment function by using Disqus"
 date: 2019-04-16 08:26:28
 categories: jekyll github pages
 tags: github pages jekyll
